@@ -1,4 +1,4 @@
-package Extras;
+package extras;
 
 import javax.swing.JOptionPane;
 public class Multiplos {

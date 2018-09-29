@@ -1,3 +1,4 @@
+package exercicios;
 public class QuadradoECubo {
 
 	public static void main(String[] args) {

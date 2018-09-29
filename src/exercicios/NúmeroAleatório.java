@@ -1,3 +1,4 @@
+package exercicios;
 import java.util.Random;
 import javax.swing.JOptionPane;
 public class NúmeroAleatório {
